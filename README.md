@@ -19,4 +19,4 @@ npm install --save awesome-react-library
 
 ## License
 
-MIT © [yangdepp](https://github.com/yangdepp)
+MIT © [make react great again](https://github.com/make-react-great-again)
