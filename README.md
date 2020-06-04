@@ -10,20 +10,12 @@
 npm install --save awesome-react-library
 ```
 
-## Usage
+## Todo
 
-```jsx
-import React, { Component } from 'react'
-
-import MyComponent from 'awesome-react-library'
-import 'awesome-react-library/dist/index.css'
-
-class Example extends Component {
-  render() {
-    return <MyComponent />
-  }
-}
-```
+- [ ] 实现 `生成验证码`
+- [ ] 实现 `验证码输入框`
+- [ ] 实现 `preload`
+- [ ] 封装 `axios二次封装`
 
 ## License
 
